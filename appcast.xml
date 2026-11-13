@@ -3,6 +3,19 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.2</title>
+            <pubDate>Fri, 13 Nov 2026 00:02:01 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Freestyle Studio 1.4.2 keeps your Google sign-in in the Workspace form.
+
+- **Sign in once.** Settings > Workspaces now remembers the Google account you signed in with, even after you close Settings or restart the app.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.2/Freestyle-Studio-1.4.2-build-13.zip" length="4636836" type="application/octet-stream" sparkle:edSignature="ERDiwFeOUjyiCrfRnktMVDsvdc4OOz7Eo2EKmS3cKMk+p47uEZ3rgOc3ogKriiy3R67VJYq950Oa+BfIWRbhAA=="/>
+        </item>
+        <item>
             <title>1.4.1</title>
             <pubDate>Thu, 12 Nov 2026 23:36:01 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
