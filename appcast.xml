@@ -3,6 +3,25 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Thu, 12 Nov 2026 23:21:51 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Freestyle Studio 1.4.0 makes the Studio sidebar simpler and the script editor more forgiving.
+
+- **Sidebar tabs.** Studio settings are now split into Film, Video, Audio and Script. Film holds what changes from take to take: the script, format, platform, layout, Framer, font size and pace.
+- **Edit the script during a take.** Edit stays available while recording. It opens at the sentence you were reading, and saving returns you to the same spot.
+- **Return adds a line.** In the script editor, Return now starts a new line where your cursor is.
+- **Video IDs.** Give a script an ID such as VID-0042 from the title editor (the pencil on the title card). The ID shows on the title card and is saved with every take.
+- **Automation setting.** Settings > General has a new switch, off by default, that lets automation tools on your Mac control the recorder.
+
+A take keeps the script snapshot it started with, even if you edit the script while recording.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.0/Freestyle-Studio-1.4.0-build-11.zip" length="4630798" type="application/octet-stream" sparkle:edSignature="2WQO29tMgFxPCXzh2ROpjEGA4rTRlysup7WtzxAhyJLRn8bj502btnmxqXFiRWRUyY0/nmkEp1AUpGDUKlV1Dg=="/>
+        </item>
+        <item>
             <title>1.3.5</title>
             <pubDate>Sun, 25 Oct 2026 20:17:23 -0500</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
