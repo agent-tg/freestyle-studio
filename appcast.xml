@@ -3,6 +3,19 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Thu, 12 Nov 2026 23:36:01 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Freestyle Studio 1.4.1 makes adding a Workspace easier.
+
+- **SOP folder is optional.** Settings > Workspaces now needs only a name and a Google account. You can add the SOP folder later.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.1/Freestyle-Studio-1.4.1-build-12.zip" length="4631203" type="application/octet-stream" sparkle:edSignature="X5zl+GK8QLuJK2YRxSiH9rrw3OLlQlZLIwGYmWt5bz0DAvJnwuUCQCaQk3vci3SjPqxRpKdQlONjeovDzwVtAQ=="/>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Thu, 12 Nov 2026 23:21:51 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
