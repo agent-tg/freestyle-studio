@@ -3,6 +3,19 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.3</title>
+            <pubDate>Fri, 13 Nov 2026 18:40:07 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Freestyle Studio 1.4.3 labels the script's read time.
+
+- **Clear read time.** The Script tab now shows Words and Est. time on separate rows, with a short line under the time that splits it into speaking and pauses at your current pace.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.3/Freestyle-Studio-1.4.3-build-14.zip" length="4647342" type="application/octet-stream" sparkle:edSignature="ltRsIYzu1u31EX3hKvPpSLcEXw0ujnVdmqfaCbpgj0HXftV41OB2vQ+LTKJZDGaLCbwz8XTUBszHycLR4hmaAA=="/>
+        </item>
+        <item>
             <title>1.4.2</title>
             <pubDate>Fri, 13 Nov 2026 00:02:01 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
