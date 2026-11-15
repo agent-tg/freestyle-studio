@@ -3,6 +3,20 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.5</title>
+            <pubDate>Sun, 15 Nov 2026 13:12:03 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Freestyle Studio 1.4.5 makes long Google Drive uploads finish.
+
+- **Uploads keep going after a network blip.** If one piece of an upload fails (a dropped connection or a busy Google server), the app waits and tries again for up to about two minutes, then carries on from where Drive left off. Before, one failed piece stopped the whole upload with "Could not reach Google."
+- **Works for both modes.** Freestyle share uploads and Studio take uploads use the same retry.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.5/Freestyle-Studio-1.4.5-build-16.zip" length="4764493" type="application/octet-stream" sparkle:edSignature="LfzVErcbsbCQXcIscQMksPxr8VpWTe8EVImlk9N+60qM8rsG5ZZHWTmlBAhL9++JZWHmlNpPcff7hv88rxjdBQ=="/>
+        </item>
+        <item>
             <title>1.4.4</title>
             <pubDate>Sat, 14 Nov 2026 12:56:19 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
