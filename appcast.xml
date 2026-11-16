@@ -3,6 +3,19 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.6</title>
+            <pubDate>Sun, 15 Nov 2026 23:26:55 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Freestyle Studio 1.4.6 gives Freestyle a tidier sidebar.
+
+- **Record, Look and Audio tabs.** Freestyle's sidebar now works like Studio's. Record holds the title, screen, camera, mic level and your last recording. Look holds the bubble size, shape and highlights. Audio holds every audio setting. Mode and Record stay pinned on top, and each mode remembers its own tab. Nothing was removed.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.6/Freestyle-Studio-1.4.6-build-17.zip" length="4776790" type="application/octet-stream" sparkle:edSignature="JMC0l2h4WHSVGX5dUorlgTBmq2noMqC+Y442UnamWIGaTY0Oht7fyBqtHTpvveuZdZQO5pcXh7YjteEnZ/LDCQ=="/>
+        </item>
+        <item>
             <title>1.4.5</title>
             <pubDate>Sun, 15 Nov 2026 13:12:03 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
@@ -145,25 +158,6 @@ Requires macOS 14 or newer. Supports Apple Silicon and Intel Macs. Google sign-i
 Requires macOS 14 or newer. Supports Apple Silicon and Intel Macs. Google sign-in and Drive uploads are not included in team builds.
 ]]></description>
             <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.3.3/Freestyle-Studio-1.3.3-build-8.zip" length="4479910" type="application/octet-stream" sparkle:edSignature="PSzOvosweSAF/DJqaMkeZaK18gqVnyEK8RBPUE16+mYwJFDtMaxoecyNKxJUm++kjYiYEpTqF/mgq/K43yrDBg=="/>
-        </item>
-        <item>
-            <title>1.3.2</title>
-            <pubDate>Fri, 02 Oct 2026 04:56:01 -0500</pubDate>
-            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"># Freestyle Studio 1.3.2
-
-- Open the live HTML cards from the Cards menu, follow links, reveal the source file, or copy its path.
-- Import scripts and transcripts directly from the Files menu.
-- Keep your preferred script font, spacing, width and reading settings between launches.
-- Frame the screen and camera in Freestyle. Center the screen or trim browser tabs and toolbars with adjustable edges.
-- See levels for every microphone input and use the five-second speech check to set recording gain. System audio now defaults to full volume and remembers your adjustment.
-
-Microphone gain remains under your control. Use **Set speech level…** with your normal speaking voice before recording.
-</description>
-            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.3.2/Freestyle-Studio-1.3.2-build-7.zip" length="4468918" type="application/octet-stream" sparkle:edSignature="v1HVXdvL/uqIw88pKwHAXVjGP0qvzUgL0Jr/3UofjfazOWKB8GQ9UCzvHwSBTw1m7mTybRGUoKxv1/NUNueXBA=="/>
         </item>
     </channel>
 </rss>
