@@ -3,6 +3,24 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.7</title>
+            <pubDate>Wed, 18 Nov 2026 02:58:54 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 1.4.7
+
+- **Welcome setup for new installs.** Pick Studio or Freestyle, allow only the permissions that mode needs (one at a time), then make an optional 10-second test recording.
+- **Report a Problem…** in the menu bar menu and Help menu. It saves a small report to your Desktop with app and Mac details. No video, audio or file names.
+- **Clearer save messages.** If a video saves but its details file doesn't, the app says so and offers Try Again instead of "Not saved".
+- **Make prompt works without a coding tool.** With neither Claude Code nor Codex installed, it writes a prompt you can paste into any AI chat.
+- Studio with a camera-only layout no longer asks for Screen Recording.
+- Script files show as "Freestyle Studio Script" in Finder.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.7/Freestyle-Studio-1.4.7-build-18.zip" length="4947945" type="application/octet-stream" sparkle:edSignature="lzzuLSyCOdOsMlIf34v43gb+rt41hEgxRp6jJGu/z/nPGqTivmH2KWRY7BdJoEYqIkvet2/FdY7tdKnrivr3CQ=="/>
+        </item>
+        <item>
             <title>1.4.6</title>
             <pubDate>Sun, 15 Nov 2026 23:26:55 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
@@ -140,24 +158,6 @@ macOS still shows its capture indicator during live preview or recording. Stop a
 Requires macOS 14 or newer. Supports Apple Silicon and Intel Macs. Google sign-in and Drive uploads are not included in team builds.
 ]]></description>
             <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.3.4/Freestyle-Studio-1.3.4-build-9.zip" length="4483273" type="application/octet-stream" sparkle:edSignature="DqWAK3PH8Z26tjKxkfFRF8cLPj6y8rMDkQSxumtxMcmONzsr0P+nxxTmYQQ81/z/q0CVPrpMNa4GDY+EzZszBQ=="/>
-        </item>
-        <item>
-            <title>1.3.3</title>
-            <pubDate>Wed, 21 Oct 2026 10:58:40 -0500</pubDate>
-            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Freestyle Studio 1.3.3
-
-- Download and update through the new Freestyle Studio address.
-- Use Freestyle Studio names for recording folders and app storage.
-- Preserve existing recordings, saved settings and workspaces during the folder rename. If both old and new folders exist, keep data in place and explain the conflict.
-- Keep automatic updates working for earlier installations.
-
-Requires macOS 14 or newer. Supports Apple Silicon and Intel Macs. Google sign-in and Drive uploads are not included in team builds.
-]]></description>
-            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.3.3/Freestyle-Studio-1.3.3-build-8.zip" length="4479910" type="application/octet-stream" sparkle:edSignature="PSzOvosweSAF/DJqaMkeZaK18gqVnyEK8RBPUE16+mYwJFDtMaxoecyNKxJUm++kjYiYEpTqF/mgq/K43yrDBg=="/>
         </item>
     </channel>
 </rss>
