@@ -3,6 +3,26 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.8</title>
+            <pubDate>Fri, 20 Nov 2026 10:03:08 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 1.4.8
+
+- **Framed layout.** Show your screen in a rounded window on a backdrop, with the camera in its own tile beside it. Pick it under Layout in Freestyle, or under Arrange in Studio landscape.
+- **New menu bar panel.** The menu bar icon now opens a panel with status, your microphone, recent recordings and quick actions. The app shows in the Dock while the recorder window is open.
+- **Spoken bullets in scripts.** A line starting with `> -` shows on the prompter as a bullet you read aloud. A stage note right before a slide shows as a small subtitle under that slide's heading.
+- **Warnings clear themselves.** "Could not select microphone" and "screen paused" messages go away once the problem is fixed.
+- **Simpler Audio tab.** One hint appears only when your chosen input is silent and another input has sound.
+- The "Take saved" strip is one compact row and clears when you move to the next video.
+- Fixed: after quitting or updating, the app could fail to reopen its window.
+- AI agents can now check and fix your recording setup, and can load a script the moment it is written.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.8/Freestyle-Studio-1.4.8-build-19.zip" length="5094340" type="application/octet-stream" sparkle:edSignature="Nog4wK3vW2/YClJZ8LObSkFrzIrVIXchDmcwI47PAlRQ6C9WtJLvd3U9LbIilr6k5OAXv/LQ9ng/1ZnrtD2eCw=="/>
+        </item>
+        <item>
             <title>1.4.7</title>
             <pubDate>Wed, 18 Nov 2026 02:58:54 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
@@ -140,24 +160,6 @@ A take keeps the script snapshot it started with, even if you edit the script wh
 macOS still shows its capture indicator during live preview or recording. Stop and save an active take before closing the recorder.
 ]]></description>
             <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.3.5/Freestyle-Studio-1.3.5-build-10.zip" length="4512629" type="application/octet-stream" sparkle:edSignature="Z4tpan0U4HxrsfKtZbAcr55EmwK6xFccbUQvy5RuwhWt4avLPCj7Qvr0J9zmZjhNC1ZI1AK0syIMjS0+sBihCQ=="/>
-        </item>
-        <item>
-            <title>1.3.4</title>
-            <pubDate>Sat, 24 Oct 2026 21:54:35 -0500</pubDate>
-            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Freestyle Studio 1.3.4
-
-- Freestyle Studio now stays in the menu bar. Closing the window hides it instead of quitting the app.
-- The Dock icon only shows while the window is open. Open the window again with **Show Freestyle Studio** in the menu bar.
-- Quit from the menu bar or with ⌘Q.
-- New **Open at Login** option in the menu bar menu starts the app in the menu bar when you log in. It is off unless you turn it on.
-
-Requires macOS 14 or newer. Supports Apple Silicon and Intel Macs. Google sign-in and Drive uploads are not included in team builds.
-]]></description>
-            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.3.4/Freestyle-Studio-1.3.4-build-9.zip" length="4483273" type="application/octet-stream" sparkle:edSignature="DqWAK3PH8Z26tjKxkfFRF8cLPj6y8rMDkQSxumtxMcmONzsr0P+nxxTmYQQ81/z/q0CVPrpMNa4GDY+EzZszBQ=="/>
         </item>
     </channel>
 </rss>
