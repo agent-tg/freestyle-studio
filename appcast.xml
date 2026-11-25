@@ -3,6 +3,25 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.9</title>
+            <pubDate>Tue, 24 Nov 2026 20:36:04 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 1.4.9
+
+- **Cleaner menu bar menu.** Pick your microphone right from the top of the menu, start a **New Recording** in one click, or control an active recording with **Pause**, **Draw** and **Stop**. Your **Last recording** stays right there with **Copy link**, **Show in Finder**, **Make/Copy AI prompt**, and **Retry upload**.
+- **Smarter readiness checks.** Closing the recorder window keeps the menu bar **Ready** while releasing your camera, microphone and screen. If a permission is off or a camera isn't sending video, the menu offers a one-click fix (**Open System Settings** or **Turn Camera off**).
+- **Simpler General settings.** **Settings → General** opens in a compact window with **Appearance**, **Open at Login**, **Check for Updates…** and **Report a Problem…** up front, and expands automatically when you switch to **Workspaces**.
+- **Last recording on every Freestyle tab.** Your newest saved Freestyle recording stays one click away whether you are on **Record**, **Look** or **Audio**.
+- **Collapsible sidebar and wider script panel.** Click the bottom-left sidebar button to collapse controls to a slim status + Record strip, and drag the divider beside your Studio script to widen it up to half the window.
+- **Separate source files for Studio takes.** Studio now saves full, uncropped camera, screen and microphone files in a `Sources` folder beside each take so you can reframe in post (toggle in **Settings → General**).
+- **Fixed:** Framed layout in Freestyle no longer shows a duplicate floating camera bubble on the desktop.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.9/Freestyle-Studio-1.4.9-build-20.zip" length="5304554" type="application/octet-stream" sparkle:edSignature="x2PNL2ZQFLlXbmRVevNwLKE/vKc3Qv5S96MDP9YxIQvUMqKRUFg/qt0XLUYcJsXsIsSbVcIzOqIcCu3au6DwCg=="/>
+        </item>
+        <item>
             <title>1.4.8</title>
             <pubDate>Fri, 20 Nov 2026 10:03:08 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
@@ -142,24 +161,6 @@
 A take keeps the script snapshot it started with, even if you edit the script while recording.
 ]]></description>
             <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.0/Freestyle-Studio-1.4.0-build-11.zip" length="4630798" type="application/octet-stream" sparkle:edSignature="2WQO29tMgFxPCXzh2ROpjEGA4rTRlysup7WtzxAhyJLRn8bj502btnmxqXFiRWRUyY0/nmkEp1AUpGDUKlV1Dg=="/>
-        </item>
-        <item>
-            <title>1.3.5</title>
-            <pubDate>Sun, 25 Oct 2026 20:17:23 -0500</pubDate>
-            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Freestyle Studio now stays in the menu bar without a Dock icon, even while the recorder is open.
-
-- Closing the idle recorder stops its screen, camera and microphone previews.
-- Reopen it from the menu bar to start previews again.
-- Open at Login keeps capture off until you open the recorder or start a recording.
-- Settings is available in the menu bar menu.
-
-macOS still shows its capture indicator during live preview or recording. Stop and save an active take before closing the recorder.
-]]></description>
-            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.3.5/Freestyle-Studio-1.3.5-build-10.zip" length="4512629" type="application/octet-stream" sparkle:edSignature="Z4tpan0U4HxrsfKtZbAcr55EmwK6xFccbUQvy5RuwhWt4avLPCj7Qvr0J9zmZjhNC1ZI1AK0syIMjS0+sBihCQ=="/>
         </item>
     </channel>
 </rss>
