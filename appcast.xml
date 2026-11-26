@@ -3,6 +3,21 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.11</title>
+            <pubDate>Thu, 26 Nov 2026 07:10:19 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.4.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Studio can now show your shared window and a script’s step chip in the same landscape take. In Framed, the camera and chip share the right column. Advancing the script updates the chip.
+
+Press Control–Option–C to cut the large panel to the current script card. Press it again to return to your screen. The controls below the preview and the set_studio_content agent command can also make the cut.
+
+For editing, Studio saves the full camera, shared screen, cards, step chip, and available audio as separate files beside the composed take. You can change this in Settings → General → Save separate files for editing.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.11/Freestyle-Studio-1.4.11-build-22.zip" length="5449770" type="application/octet-stream" sparkle:edSignature="FOwfi6BeQwfo+oBsPdP6Pwaiy3gFp3ot+wyY0mXddk4XVLtd3xnamEy4bjzGfnMrzLguoYBcQP5yZR/PpQ9XCQ=="/>
+        </item>
+        <item>
             <title>1.4.10</title>
             <pubDate>Thu, 26 Nov 2026 05:44:09 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
@@ -151,19 +166,6 @@ Safer saving. This update fixes rare cases where a good recording or your edits 
 - **Sign in once.** Settings > Workspaces now remembers the Google account you signed in with, even after you close Settings or restart the app.
 ]]></description>
             <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.2/Freestyle-Studio-1.4.2-build-13.zip" length="4636836" type="application/octet-stream" sparkle:edSignature="ERDiwFeOUjyiCrfRnktMVDsvdc4OOz7Eo2EKmS3cKMk+p47uEZ3rgOc3ogKriiy3R67VJYq950Oa+BfIWRbhAA=="/>
-        </item>
-        <item>
-            <title>1.4.1</title>
-            <pubDate>Thu, 12 Nov 2026 23:36:01 -0600</pubDate>
-            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Freestyle Studio 1.4.1 makes adding a Workspace easier.
-
-- **SOP folder is optional.** Settings > Workspaces now needs only a name and a Google account. You can add the SOP folder later.
-]]></description>
-            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.1/Freestyle-Studio-1.4.1-build-12.zip" length="4631203" type="application/octet-stream" sparkle:edSignature="X5zl+GK8QLuJK2YRxSiH9rrw3OLlQlZLIwGYmWt5bz0DAvJnwuUCQCaQk3vci3SjPqxRpKdQlONjeovDzwVtAQ=="/>
         </item>
     </channel>
 </rss>
