@@ -3,6 +3,19 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.12</title>
+            <pubDate>Thu, 26 Nov 2026 09:37:39 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.4.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fixes an issue on multi-display Macs where opening a script in Framed could show “The step chip didn’t appear” and leave the full cards unavailable.
+
+Open your script with a display or window selected. The chip beneath the camera follows the prompter. Press **Control–Option–C** to show the current full card, then press it again to return to your screen share.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.12/Freestyle-Studio-1.4.12-build-23.zip" length="5479648" type="application/octet-stream" sparkle:edSignature="9/n31QXh/6ZvkDf6rwrm31klKVBbBN7EyTmbQq1k5v9NVZkACbG/cq4PboTL4XFJYsUL6zsGTcmKwcKRXUaeCA=="/>
+        </item>
+        <item>
             <title>1.4.11</title>
             <pubDate>Thu, 26 Nov 2026 07:10:19 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
@@ -153,19 +166,6 @@ Safer saving. This update fixes rare cases where a good recording or your edits 
 - **Clear read time.** The Script tab now shows Words and Est. time on separate rows, with a short line under the time that splits it into speaking and pauses at your current pace.
 ]]></description>
             <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.3/Freestyle-Studio-1.4.3-build-14.zip" length="4647342" type="application/octet-stream" sparkle:edSignature="ltRsIYzu1u31EX3hKvPpSLcEXw0ujnVdmqfaCbpgj0HXftV41OB2vQ+LTKJZDGaLCbwz8XTUBszHycLR4hmaAA=="/>
-        </item>
-        <item>
-            <title>1.4.2</title>
-            <pubDate>Fri, 13 Nov 2026 00:02:01 -0600</pubDate>
-            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Freestyle Studio 1.4.2 keeps your Google sign-in in the Workspace form.
-
-- **Sign in once.** Settings > Workspaces now remembers the Google account you signed in with, even after you close Settings or restart the app.
-]]></description>
-            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.2/Freestyle-Studio-1.4.2-build-13.zip" length="4636836" type="application/octet-stream" sparkle:edSignature="ERDiwFeOUjyiCrfRnktMVDsvdc4OOz7Eo2EKmS3cKMk+p47uEZ3rgOc3ogKriiy3R67VJYq950Oa+BfIWRbhAA=="/>
         </item>
     </channel>
 </rss>
