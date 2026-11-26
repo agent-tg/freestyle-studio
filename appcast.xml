@@ -3,19 +3,17 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
-            <title>1.4.13</title>
-            <pubDate>Thu, 26 Nov 2026 11:25:32 -0600</pubDate>
+            <title>1.4.14</title>
+            <pubDate>Thu, 26 Nov 2026 11:30:23 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.4.13</sparkle:shortVersionString>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.4.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[If screen sharing stops, click **Reconnect Screen** in Studio. Your take keeps running, and you can cut back when the window is ready.
+            <description sparkle:format="markdown"><![CDATA[In Studio, select your first screen or window, then use **Video → Add Scene** to add up to three more. While recording, click a scene’s name or press **Control–Option–4** through **Control–Option–7** to cut to it.
 
-Use **Trim top** beside the selected window to remove the sharing badge from your video. The separate window recording preserves the full frame.
-
-With a script open, the slide and card shortcuts appear near Record. Enable **Move slides with Page Up / Page Down** in Script settings to use a presentation clicker.
+**Control–Option–C** shows your script card and returns to the last scene. Each selected screen or window has its own full-resolution recording for editing. When system audio is enabled, it follows the primary source throughout the take.
 ]]></description>
-            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.13/Freestyle-Studio-1.4.13-build-24.zip" length="5522201" type="application/octet-stream" sparkle:edSignature="nUIU07mbTkk95UQhztBX4lLck4IKw7m4HBkgSjEo8BKItPZ37rb1T/xml/teLXs8bzORgR5YydF/rlOtfGrTCg=="/>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.14/Freestyle-Studio-1.4.14-build-25.zip" length="5610679" type="application/octet-stream" sparkle:edSignature="rb7BSSQhkoGgXP0Z096g9yPhVSdSnUPNXSx4APLeH9fcbGhH4foAZGycvXpyMyj3XVtFdQpuGMOCwATiRM0oAg=="/>
         </item>
         <item>
             <title>1.4.12</title>
