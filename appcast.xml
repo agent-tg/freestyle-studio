@@ -3,6 +3,28 @@
     <channel>
         <title>Freestyle Studio</title>
         <item>
+            <title>1.4.10</title>
+            <pubDate>Thu, 26 Nov 2026 05:44:09 -0600</pubDate>
+            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new in 1.4.10
+
+Safer saving. This update fixes rare cases where a good recording or your edits could be lost.
+
+- **Takes are saved even when something small goes wrong.** If the sound took too long to finish, or an extra source file (camera, screen or mic in the `Sources` folder) did not finish, your take is still saved. A short note tells you what happened, and any unfinished file is kept so it can be recovered.
+- **No more endless "Saving".** If saving gets stuck for a full minute, Freestyle Studio stops waiting, keeps a recovery file and lets you record again.
+- **Quit asks before throwing away edits.** If you have unsaved script edits or an unsaved recording review, Quit and **Update** ask first. **Keep Editing** is the default.
+- **Script edits stay in the right script.** While you are editing a script, you can't switch to another one. Finish or cancel your edit first.
+- **Script labels stay put.** Draft, Ready and Recorded labels are no longer reset when you open a script file as the app starts.
+- **Stopping right away is quiet.** Pressing Stop the moment the countdown ends no longer shows an error.
+- **Recording review is steadier.** Upload, **Make AI prompt** and **Copy path** no longer trip over each other. A recording is moved into its Workspace after its AI prompt finishes.
+- **Fixed:** cancelled Freestyle recordings no longer leave empty entries behind.
+]]></description>
+            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.10/Freestyle-Studio-1.4.10-build-21.zip" length="5354422" type="application/octet-stream" sparkle:edSignature="TtuqSA2ojScTBq7V9RBnQpAEIvqyfsudv80JYWjvYgG/P3NTg0vP28Oi5SlQFnOAUuzi0kF9vLNfxsA85xqWAQ=="/>
+        </item>
+        <item>
             <title>1.4.9</title>
             <pubDate>Tue, 24 Nov 2026 20:36:04 -0600</pubDate>
             <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
@@ -142,25 +164,6 @@
 - **SOP folder is optional.** Settings > Workspaces now needs only a name and a Google account. You can add the SOP folder later.
 ]]></description>
             <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.1/Freestyle-Studio-1.4.1-build-12.zip" length="4631203" type="application/octet-stream" sparkle:edSignature="X5zl+GK8QLuJK2YRxSiH9rrw3OLlQlZLIwGYmWt5bz0DAvJnwuUCQCaQk3vci3SjPqxRpKdQlONjeovDzwVtAQ=="/>
-        </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Thu, 12 Nov 2026 23:21:51 -0600</pubDate>
-            <link>https://github.com/agent-tg/freestyle-studio/releases/latest</link>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Freestyle Studio 1.4.0 makes the Studio sidebar simpler and the script editor more forgiving.
-
-- **Sidebar tabs.** Studio settings are now split into Film, Video, Audio and Script. Film holds what changes from take to take: the script, format, platform, layout, Framer, font size and pace.
-- **Edit the script during a take.** Edit stays available while recording. It opens at the sentence you were reading, and saving returns you to the same spot.
-- **Return adds a line.** In the script editor, Return now starts a new line where your cursor is.
-- **Video IDs.** Give a script an ID such as VID-0042 from the title editor (the pencil on the title card). The ID shows on the title card and is saved with every take.
-- **Automation setting.** Settings > General has a new switch, off by default, that lets automation tools on your Mac control the recorder.
-
-A take keeps the script snapshot it started with, even if you edit the script while recording.
-]]></description>
-            <enclosure url="https://github.com/agent-tg/freestyle-studio/releases/download/v1.4.0/Freestyle-Studio-1.4.0-build-11.zip" length="4630798" type="application/octet-stream" sparkle:edSignature="2WQO29tMgFxPCXzh2ROpjEGA4rTRlysup7WtzxAhyJLRn8bj502btnmxqXFiRWRUyY0/nmkEp1AUpGDUKlV1Dg=="/>
         </item>
     </channel>
 </rss>
